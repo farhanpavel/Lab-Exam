@@ -8,7 +8,6 @@ const imageUrl = './images/Group1.png';
         // Create a new image element
         const imgElement = document.createElement('img');
         imgElement.src = imageUrl;
-        imgElement.alt = 'Description of the image'; // Add alt text for accessibility
 
         // Append the image element to the body or any specific element on your page
         document.body.appendChild(imgElement); // You can change document.body to any other parent element where you want to append the image
