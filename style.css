@@ -1,0 +1,39 @@
+.row{
+    margin: 0;
+    padding: 0;
+}
+*{
+    box-sizing: border-box;
+}
+.shob{
+    background-color: aquamarine;
+
+}
+.changer-one ul li{
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.changer-three{
+    background-color: red;
+   padding: 10px; 
+   margin-right: 70px; 
+   border-radius: 12px;
+}
+.sub-change a{
+    background-color: brown;
+    border-radius: 10px;
+}
+.one{
+    background: url(./images/Group1.png);
+    height: 400px;
+
+}
+.all{
+    position: relative;
+    top: -50px;
+}
+.one-two{
+   position: relative;
+   top: 150px;
+   left: 30px;
+}
